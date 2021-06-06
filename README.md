@@ -43,7 +43,7 @@ sonnguyen9800
 
 ## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+* Free to use for Educational Purpose
 
 ## Acknowledgments
 
