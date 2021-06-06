@@ -1,10 +1,10 @@
 # Progressor 0.0.1
 
-Sometime you want to set a target for you weekly, for example: "Reading Book for 8 hours every week". This app helps you to do that. Furthermore, you can see the progress that you have done so far in the current week.
+1. Sometime you want to set a target for you weekly, for example: "Reading Book for 8 hours every week". This app helps you to do that. Furthermore, you can see the progress that you have done so far in the current week.
 
-Current version is very simple, and support for Android Only
+2. Current version is very simple and support for Android Only. The project also has not migrated to Null-Safety yet.
 
-In addition, this is also my attemp to learn Flutter and Dart
+*In addition, this is also my attemp to learn Flutter and Dart
 
 ## Description
 
@@ -25,14 +25,14 @@ In addition, this is also my attemp to learn Flutter and Dart
 - Run: "flutter build apk --split-per-abi" to build the apk file 
 
 ### Dependencies
-  *google_fonts: ^2.0.0
-  *sqflite: ^2.0.0+3
-  *path_provider: ^2.0.1
-  *numberpicker: ^1.3.0
-  *jiffy: ^3.0.1
-  *flutter_local_notifications: ^4.0.1
-  *flutter_background: ^0.1.6
-  *provider: ^5.0.0
+ - google_fonts: ^2.0.0
+ - sqflite: ^2.0.0+3
+ - path_provider: ^2.0.1
+ - numberpicker: ^1.3.0
+ - jiffy: ^3.0.1
+ - flutter_local_notifications: ^4.0.1
+ - flutter_background: ^0.1.6
+ - provider: ^5.0.0
 
 ## Authors
 
