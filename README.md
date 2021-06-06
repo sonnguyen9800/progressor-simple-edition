@@ -1,16 +1,50 @@
-# progressor
+# Progressor 0.0.1
 
-A new Flutter application to manage task
+Sometime you want to set a target for you weekly, for example: "Reading Book for 8 hours every week". This app helps you to do that. Furthermore, you can see the progress that you have done so far in the current week.
+
+Current version is very simple, and support for Android Only
+
+In addition, this is also my attemp to learn Flutter and Dart
+
+## Description
+
+- Create & Delete the Progress's name & the amount of time per week you want to spend on the task (unit:minutes per week)
+- Start the timer before the task actually happends to keep track time spent on that task.
+- End the timer when the task is paused, suspended.
+
+## Images
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/45099020/120912303-33300800-c6b8-11eb-825e-60f428077c5e.PNG">
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/45099020/120912530-31ffda80-c6ba-11eb-98af-7b5eaf438b0d.png">
+</p>
 
 ## Getting Started
+- Run: "flutter pub get" to install needed plugins.
+- Run: "flutter build apk --split-per-abi" to build the apk file 
 
-This project is a starting point for a Flutter application.
+### Dependencies
+  *google_fonts: ^2.0.0
+  *sqflite: ^2.0.0+3
+  *path_provider: ^2.0.1
+  *numberpicker: ^1.3.0
+  *jiffy: ^3.0.1
+  *flutter_local_notifications: ^4.0.1
+  *flutter_background: ^0.1.6
+  *provider: ^5.0.0
 
-A few resources to get you started if this is your first Flutter project:
+## Authors
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+sonnguyen9800 
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Version History
+* 0.0.1: Public version with UI & Basic featured provided. No more upgrades for this public repo.
+
+## License
+
+This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+
+## Acknowledgments
+
+LinkedinLearning: Where I learn Flutter & Dart
